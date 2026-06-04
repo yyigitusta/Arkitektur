@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -13,7 +14,7 @@ namespace Arkitektur.DataAccess.Extensions
 {
     public static class RepositoryRegistration
     {
-        public static void AddRepositories(this IServiceCollection services,IConfiguration configuration)
+        public static IServiceCollection AddRepositories(this IServiceCollection services,IConfiguration configuration)
         {
             services.AddDbContext<AppDbContext>(options =>
             {
@@ -23,6 +24,7 @@ namespace Arkitektur.DataAccess.Extensions
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>)
            );
+            return services;
         }
     }
 }

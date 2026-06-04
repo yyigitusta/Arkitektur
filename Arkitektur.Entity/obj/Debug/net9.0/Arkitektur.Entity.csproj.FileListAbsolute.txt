@@ -1,0 +1,12 @@
+C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\bin\Debug\net9.0\Arkitektur.Entity.deps.json
+C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\bin\Debug\net9.0\Arkitektur.Entity.dll
+C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\bin\Debug\net9.0\Arkitektur.Entity.pdb
+C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\obj\Debug\net9.0\Arkitektur.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\obj\Debug\net9.0\Arkitektur.Entity.AssemblyInfoInputs.cache
+C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\obj\Debug\net9.0\Arkitektur.Entity.AssemblyInfo.cs
+C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\obj\Debug\net9.0\Arkitektur.Entity.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\obj\Debug\net9.0\Arkitektur.Entity.sourcelink.json
+C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\obj\Debug\net9.0\Arkitektur.Entity.dll
+C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\obj\Debug\net9.0\refint\Arkitektur.Entity.dll
+C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\obj\Debug\net9.0\Arkitektur.Entity.pdb
+C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\obj\Debug\net9.0\ref\Arkitektur.Entity.dll
