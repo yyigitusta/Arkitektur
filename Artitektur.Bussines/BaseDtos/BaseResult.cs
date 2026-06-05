@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Artitektur.Business.DTOs.BannerDtos;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,6 +25,11 @@ namespace Artitektur.Business.BaseDtos
         public static BaseResult<T> Fail(string errorMessage)
         {
             return new BaseResult<T> { Errors = new[] { new { ErrorMessage = errorMessage } } };
+        }
+
+        internal static async Task<BaseResult<List<ResultBannerDto>>> Success(List<ResultBannerDto> mappedResult)
+        {
+            throw new NotImplementedException();
         }
     }
 }

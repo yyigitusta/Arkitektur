@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,6 +22,11 @@ namespace Arkitektur.DataAccess.Extensions
                 options.UseSqlServer(configuration.GetConnectionString("SqlConnection"));
                 options.AddInterceptors(new Interceptors.AuditDbContextInterceptor());
             });
+            services.Scan(opt => opt.FromAssemblyOf<DataAccessAssembly>()
+            .AddClasses(x => x.Where(t => t.Name.EndsWith("Repository")))
+            .AsImplementedInterfaces()
+            .WithScopedLifetime());
+
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>)
            );

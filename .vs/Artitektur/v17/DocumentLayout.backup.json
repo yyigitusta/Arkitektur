@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\yigit\\Desktop\\Artitektur\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|c:\\users\\yigit\\desktop\\artitektur\\artitektur.bussines\\dtos\\aboutdtos\\updateaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|solutionrelative:artitektur.bussines\\dtos\\aboutdtos\\updateaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|c:\\users\\yigit\\desktop\\artitektur\\artitektur.bussines\\basedtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|solutionrelative:artitektur.bussines\\basedtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|c:\\users\\yigit\\desktop\\artitektur\\artitektur.bussines\\basedtos\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|solutionrelative:artitektur.bussines\\basedtos\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2733C6-9DE0-4828-B5A5-71117C9596F4}|Arkitektur.DataAccess\\Arkitektur.DataAccess.csproj|c:\\users\\yigit\\desktop\\artitektur\\arkitektur.dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2733C6-9DE0-4828-B5A5-71117C9596F4}|Arkitektur.DataAccess\\Arkitektur.DataAccess.csproj|solutionrelative:arkitektur.dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53E23987-53DB-42DE-8AF1-0ED9FC6C903A}|Arkitektur.API\\Arkitektur.API.csproj|c:\\users\\yigit\\desktop\\artitektur\\arkitektur.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{53E23987-53DB-42DE-8AF1-0ED9FC6C903A}|Arkitektur.API\\Arkitektur.API.csproj|solutionrelative:arkitektur.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -38,10 +54,6 @@
       "RelativeMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|solutionrelative:artitektur.bussines\\services\\aboutservices\\aboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|c:\\users\\yigit\\desktop\\artitektur\\artitektur.bussines\\dtos\\aboutdtos\\updateaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|solutionrelative:artitektur.bussines\\dtos\\aboutdtos\\updateaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|c:\\users\\yigit\\desktop\\artitektur\\artitektur.bussines\\dtos\\aboutdtos\\resultaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|solutionrelative:artitektur.bussines\\dtos\\aboutdtos\\resultaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -52,14 +64,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|c:\\users\\yigit\\desktop\\artitektur\\artitektur.bussines\\services\\aboutservices\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|solutionrelative:artitektur.bussines\\services\\aboutservices\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|c:\\users\\yigit\\desktop\\artitektur\\artitektur.bussines\\basedtos\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|solutionrelative:artitektur.bussines\\basedtos\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|c:\\users\\yigit\\desktop\\artitektur\\artitektur.bussines\\basedtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F55BB77-1E8E-459C-BA2B-1EBBEA7152DB}|Artitektur.Bussines\\Artitektur.Business.csproj|solutionrelative:artitektur.bussines\\basedtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3CD1B353-BE16-4318-8D64-C597AB241E94}|Arkitektur.Entity\\Arkitektur.Entity.csproj|c:\\users\\yigit\\desktop\\artitektur\\arkitektur.entity\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,7 +81,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,7 +89,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.DataAccess\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Arkitektur.DataAccess\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.DataAccess\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Arkitektur.DataAccess\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T18:19:11.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Arkitektur.API\\Properties\\launchSettings.json",
@@ -98,46 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AboutsController.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.API\\Controllers\\AboutsController.cs",
-              "RelativeDocumentMoniker": "Arkitektur.API\\Controllers\\AboutsController.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.API\\Controllers\\AboutsController.cs",
-              "RelativeToolTip": "Arkitektur.API\\Controllers\\AboutsController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwC8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T18:01:26.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\yigit\\AppData\\Roaming\\Microsoft\\UserSecrets\\685115cf-4c0e-42fe-ac5d-fcadaaf318a8\\secrets.json",
-              "RelativeDocumentMoniker": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\685115cf-4c0e-42fe-ac5d-fcadaaf318a8\\secrets.json",
-              "ToolTip": "C:\\Users\\yigit\\AppData\\Roaming\\Microsoft\\UserSecrets\\685115cf-4c0e-42fe-ac5d-fcadaaf318a8\\secrets.json",
-              "RelativeToolTip": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\685115cf-4c0e-42fe-ac5d-fcadaaf318a8\\secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-04T17:57:05.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.API\\Program.cs",
-              "RelativeDocumentMoniker": "Arkitektur.API\\Program.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.API\\Program.cs",
-              "RelativeToolTip": "Arkitektur.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T17:49:34.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "20260604175556_mig_init.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.DataAccess\\Migrations\\20260604175556_mig_init.cs",
               "RelativeDocumentMoniker": "Arkitektur.DataAccess\\Migrations\\20260604175556_mig_init.cs",
@@ -150,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "RepositoryRegistration.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.DataAccess\\Extensions\\RepositoryRegistration.cs",
               "RelativeDocumentMoniker": "Arkitektur.DataAccess\\Extensions\\RepositoryRegistration.cs",
@@ -163,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.API\\appsettings.json",
               "RelativeDocumentMoniker": "Arkitektur.API\\appsettings.json",
@@ -176,7 +154,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseResult.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\BaseDtos\\BaseResult.cs",
+              "RelativeDocumentMoniker": "Artitektur.Bussines\\BaseDtos\\BaseResult.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\BaseDtos\\BaseResult.cs",
+              "RelativeToolTip": "Artitektur.Bussines\\BaseDtos\\BaseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:53:51.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\BaseDtos\\BaseDto.cs",
+              "RelativeDocumentMoniker": "Artitektur.Bussines\\BaseDtos\\BaseDto.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\BaseDtos\\BaseDto.cs",
+              "RelativeToolTip": "Artitektur.Bussines\\BaseDtos\\BaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:48:55.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateAboutDto.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\DTOs\\AboutDtos\\UpdateAboutDto.cs",
+              "RelativeDocumentMoniker": "Artitektur.Bussines\\DTOs\\AboutDtos\\UpdateAboutDto.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\DTOs\\AboutDtos\\UpdateAboutDto.cs",
+              "RelativeToolTip": "Artitektur.Bussines\\DTOs\\AboutDtos\\UpdateAboutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:46:51.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.API\\Program.cs",
+              "RelativeDocumentMoniker": "Arkitektur.API\\Program.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.API\\Program.cs",
+              "RelativeToolTip": "Arkitektur.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T17:49:34.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\yigit\\AppData\\Roaming\\Microsoft\\UserSecrets\\685115cf-4c0e-42fe-ac5d-fcadaaf318a8\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\685115cf-4c0e-42fe-ac5d-fcadaaf318a8\\secrets.json",
+              "ToolTip": "C:\\Users\\yigit\\AppData\\Roaming\\Microsoft\\UserSecrets\\685115cf-4c0e-42fe-ac5d-fcadaaf318a8\\secrets.json",
+              "RelativeToolTip": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\685115cf-4c0e-42fe-ac5d-fcadaaf318a8\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-04T17:57:05.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutsController.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.API\\Controllers\\AboutsController.cs",
+              "RelativeDocumentMoniker": "Arkitektur.API\\Controllers\\AboutsController.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.API\\Controllers\\AboutsController.cs",
+              "RelativeToolTip": "Arkitektur.API\\Controllers\\AboutsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T18:01:26.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ServiceRegistrations.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\Extensions\\ServiceRegistrations.cs",
               "RelativeDocumentMoniker": "Artitektur.Bussines\\Extensions\\ServiceRegistrations.cs",
@@ -189,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "AboutService.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\Services\\AboutServices\\AboutService.cs",
               "RelativeDocumentMoniker": "Artitektur.Bussines\\Services\\AboutServices\\AboutService.cs",
@@ -202,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "IAboutService.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\Services\\AboutServices\\IAboutService.cs",
               "RelativeDocumentMoniker": "Artitektur.Bussines\\Services\\AboutServices\\IAboutService.cs",
@@ -215,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ResultAboutDto.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\DTOs\\AboutDtos\\ResultAboutDto.cs",
               "RelativeDocumentMoniker": "Artitektur.Bussines\\DTOs\\AboutDtos\\ResultAboutDto.cs",
@@ -228,20 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UpdateAboutDto.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\DTOs\\AboutDtos\\UpdateAboutDto.cs",
-              "RelativeDocumentMoniker": "Artitektur.Bussines\\DTOs\\AboutDtos\\UpdateAboutDto.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\DTOs\\AboutDtos\\UpdateAboutDto.cs",
-              "RelativeToolTip": "Artitektur.Bussines\\DTOs\\AboutDtos\\UpdateAboutDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T16:46:51.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "CreateAboutDto.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\DTOs\\AboutDtos\\CreateAboutDto.cs",
               "RelativeDocumentMoniker": "Artitektur.Bussines\\DTOs\\AboutDtos\\CreateAboutDto.cs",
@@ -254,33 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BaseResult.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\BaseDtos\\BaseResult.cs",
-              "RelativeDocumentMoniker": "Artitektur.Bussines\\BaseDtos\\BaseResult.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\BaseDtos\\BaseResult.cs",
-              "RelativeToolTip": "Artitektur.Bussines\\BaseDtos\\BaseResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T16:53:51.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BaseDto.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\BaseDtos\\BaseDto.cs",
-              "RelativeDocumentMoniker": "Artitektur.Bussines\\BaseDtos\\BaseDto.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\Artitektur\\Artitektur.Bussines\\BaseDtos\\BaseDto.cs",
-              "RelativeToolTip": "Artitektur.Bussines\\BaseDtos\\BaseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T16:48:55.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "About.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.Entity\\Entities\\About.cs",
               "RelativeDocumentMoniker": "Arkitektur.Entity\\Entities\\About.cs",
@@ -293,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\Artitektur\\Arkitektur.Entity\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Arkitektur.Entity\\Entities\\Common\\BaseEntity.cs",

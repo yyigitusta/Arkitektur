@@ -153,6 +153,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.16, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -292,6 +296,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
             "Mapster": {
               "target": "Package",
               "version": "[10.0.7, )"
