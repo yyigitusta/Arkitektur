@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Artitektur.Business.DTOs.CategoryDtos
 {
-    public class CreateCategoryDto : BaseDtos.BaseDto
+    public class CreateCategoryDto 
     {
         public string CategoryName { get; set; }
         public IList<Project> Projects { get; set; }
