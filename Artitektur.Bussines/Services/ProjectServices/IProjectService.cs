@@ -12,6 +12,7 @@ namespace Artitektur.Business.Services.ProjectServices
     public interface IProjectService
     {
         Task<BaseResult<ResultProjectDto>> GetByIdAsync(int id);
+        Task<BaseResult<List<ResultProjectDto>>> GetAllByCategoryIdAsync();
         Task<BaseResult<List<ResultProjectDto>>> GetAllAsync();
         Task<BaseResult<object>> CrateAsync(CreateProjectDto ProjectDto);
         Task<BaseResult<object>> DeleteAsync(int id);

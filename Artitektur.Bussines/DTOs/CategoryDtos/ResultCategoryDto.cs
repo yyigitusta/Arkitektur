@@ -10,6 +10,5 @@ namespace Artitektur.Business.DTOs.CategoryDtos
     public class ResultCategoryDto : BaseDtos.BaseDto
     {
         public string CategoryName { get; set; }
-        public IList<Project> Projects { get; set; }
     }
 }

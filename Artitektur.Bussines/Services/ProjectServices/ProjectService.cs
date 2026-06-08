@@ -4,6 +4,7 @@ using Arkitektur.Entity.Entities;
 using Artitektur.Business.BaseDtos;
 using Artitektur.Business.DTOs.ProjectDtos;
 using Mapster;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -36,6 +37,14 @@ namespace Artitektur.Business.Services.ProjectServices
             var mappedprojectsDto=projects.Adapt<List<ResultProjectDto>>();
             return BaseResult<List<ResultProjectDto>>.Success(mappedprojectsDto);
 
+        }
+
+        public async Task<BaseResult<List<ResultProjectDto>>> GetAllByCategoryIdAsync()
+        {
+            var queryable =  repository.GetQuaryable();
+            var products = await queryable.Include(p => p.CategoryId).ToListAsync();
+            var mappedprojectsDto=products.Adapt<List<ResultProjectDto>>();
+            return BaseResult<List<ResultProjectDto>>.Success(mappedprojectsDto);
         }
 
         public async Task<BaseResult<ResultProjectDto>> GetByIdAsync(int id)

@@ -1,4 +1,6 @@
-﻿using Artitektur.Business.DTOs.ProjectDtos;
+﻿using Arkitektur.Entity.Entities;
+using Artitektur.Business.DTOs.BannerDtos;
+using Artitektur.Business.DTOs.ProjectDtos;
 using Artitektur.Business.Services.ProjectServices;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -10,7 +12,7 @@ namespace Arkitektur.API.Controllers
     public class ProjectsController(IProjectService ProjectService) : ControllerBase
     {
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public async Task<ActionResult<List<ResultProjectDto>>> GetAll()
         {
             var result = await ProjectService.GetAllAsync();
             if (!result.IsSuccess)
@@ -19,8 +21,18 @@ namespace Arkitektur.API.Controllers
             }
             return Ok(result);
         }
+        [HttpGet("{WithCategories}")]
+        public async Task<IActionResult> GetProductsWithCategories()
+        {
+            var result = await ProjectService.GetAllByCategoryIdAsync();
+            if (!result.IsSuccess)
+            {
+                return BadRequest(result);
+            }
+            return Ok(result);
+        }
         [HttpGet("{id}")]
-        public async Task<IActionResult> GetById(int id)
+        public async Task<ActionResult<ResultProjectDto>> GetById(int id)
         {
             var result = await ProjectService.GetByIdAsync(id);
             if (!result.IsSuccess)
