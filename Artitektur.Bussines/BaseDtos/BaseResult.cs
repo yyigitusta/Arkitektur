@@ -1,4 +1,5 @@
 ﻿using Artitektur.Business.DTOs.BannerDtos;
+using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,9 +28,20 @@ namespace Artitektur.Business.BaseDtos
             return new BaseResult<T> { Errors = new[] { new { ErrorMessage = errorMessage } } };
         }
 
-        internal static async Task<BaseResult<List<ResultBannerDto>>> Success(List<ResultBannerDto> mappedResult)
+        public static async Task<BaseResult<List<ResultBannerDto>>> Success(List<ResultBannerDto> mappedResult)
         {
             throw new NotImplementedException();
         }
+        public static BaseResult<T> Fail(IEnumerable<IdentityError> errorMessages)
+        {
+            IEnumerable<object> errors=(from error in errorMessages
+                                        select new 
+                                        { 
+                                            error.Code,
+                                            error.Description 
+                                        }).ToList();
+            return new BaseResult<T> { Errors=errors };
+        }
+
     }
 }

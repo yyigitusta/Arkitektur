@@ -1,5 +1,6 @@
 ﻿using Arkitektur.Entity.Entities;
 using Arkitektur.Entity.Entities.Common;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Arkitektur.DataAccess
 {
-    public class AppDbContext(DbContextOptions options) : DbContext(options)
+    public class AppDbContext(DbContextOptions options) : IdentityDbContext<AppUser,AppRole,int>(options)
     {
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

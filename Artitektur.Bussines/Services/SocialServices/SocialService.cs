@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Artitektur.Business.Services.SocialServices
 {
-    public class SocialService(GenericRepository<Social> repository , IUnitOfWork unitOfWork) : ISocialService
+    public class SocialService(IGenericRepository<Social> repository , IUnitOfWork unitOfWork) : ISocialService
     {
         public async Task<BaseResult<object>> CrateAsync(CreateSocialDto socialDto)
         {

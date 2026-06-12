@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Artitektur.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b41283a56377d61ab7bb4c733a757669a7aba93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b96624e770122864250903b4915413482a8a928")]
 [assembly: System.Reflection.AssemblyProductAttribute("Artitektur.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Artitektur.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

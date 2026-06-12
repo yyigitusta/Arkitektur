@@ -10,3 +10,4 @@ C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\obj\Debug\net9.0\Arkitektur.
 C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\obj\Debug\net9.0\refint\Arkitektur.Entity.dll
 C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\obj\Debug\net9.0\Arkitektur.Entity.pdb
 C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\obj\Debug\net9.0\ref\Arkitektur.Entity.dll
+C:\Users\yigit\Desktop\Artitektur\Arkitektur.Entity\obj\Debug\net9.0\Arkitektur.Entity.csproj.AssemblyReference.cache
