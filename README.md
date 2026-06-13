@@ -1,0 +1,1 @@
+arkitektur projesi güncel backend yeteneklerimi geliştirmek için oluşturulmuştur
